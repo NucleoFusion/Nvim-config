@@ -8,5 +8,6 @@ return {
   { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.colorscheme.catppuccin" },
   { import = "astrocommunity.editing-support.yanky-nvim" },
+  { import = "astrocommunity.note-taking.neorg" },
   -- import/override with your plugins folder
 }
